@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "lively-sentry-244023": {
+      "hosting": {
+        "myapp": [
+          "lively-sentry-244023"
+        ]
+      }
+    }
+  }
+}
